@@ -6,4 +6,8 @@ slug: video-singapore-international-spring-festival
 categories: []
 tags: []
 ---
-[![Everything Is AWESOME](screen.png)](https://youtu.be/AbIBw8hc4OU)
+<div align="center" style="position:static; height: 100%; width: 100%;">
+   <img src="screen.png" style="width: 100%; max-width: 600px;">
+   <br/>
+</div>  
+(https://youtu.be/AbIBw8hc4OU)
